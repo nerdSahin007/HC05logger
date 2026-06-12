@@ -114,3 +114,6 @@ If the phone asks for permission:
 - The default HC-05 baud in the sketch is `9600`.
 - The Uno uses `SoftwareSerial` on pins `10` and `11` for Bluetooth.
 - If your HC-05 AT configuration uses another baud rate, change `bluetooth.begin(9600);` in the sketch.
+
+
+<img width="1156" height="762" alt="image" src="https://github.com/user-attachments/assets/a4207aa5-d541-4151-83cd-2f18020b20e5" />
